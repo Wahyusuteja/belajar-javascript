@@ -45,3 +45,7 @@ console.log(total)
 const jumlah = totalHargaShiping(1000,"+hgg",10)
 console.log(jumlah)
 
+function conversiUsdToIdr(usd,idr=15000) {
+    return(usd*idr)
+}
+console.log(conversiUsdToIdr(5))
