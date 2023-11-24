@@ -62,7 +62,7 @@ console.log(phone); // undefined
 console.log(getName); // undefined
 
 const people = {
-    nama : "saka",
+    nama : "s",
     umur :"17"
 }
 console.log(people.nama?"wahyu":"sopyan")
