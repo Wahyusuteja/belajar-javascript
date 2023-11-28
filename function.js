@@ -49,3 +49,4 @@ function conversiUsdToIdr(usd,idr=15000) {
     return(usd*idr)
 }
 console.log(conversiUsdToIdr(5))
+
